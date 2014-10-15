@@ -1,0 +1,54 @@
+06/10/2014 15:28:25 devpinoyLogger Test started time 03:28:25 PM
+06/10/2014 15:28:25 devpinoyLogger loaded QA properties file
+06/10/2014 15:28:25 devpinoyLogger loaded Object repository properties file
+06/10/2014 15:28:25 devpinoyLogger loaded test repository and data repository files
+06/10/2014 15:28:25 devpinoyLogger *************************************** TC01 **************************************  Skip
+06/10/2014 15:28:25 devpinoyLogger Executing the test *************TC02  ***********************
+06/10/2014 15:28:25 devpinoyLogger openbrowser
+06/10/2014 15:28:29 devpinoyLogger Launched firefox browser 
+06/10/2014 15:28:29 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 15:28:29 devpinoyLogger launch the browser----- openbrowser----- Pass
+06/10/2014 15:28:29 devpinoyLogger navigate
+06/10/2014 15:28:43 devpinoyLogger naviagted to the URL-http://www.qa3.mynewplace.com/
+06/10/2014 15:28:43 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 15:28:43 devpinoyLogger Navigate to the mynewplace application----- navigate----- Pass
+06/10/2014 15:28:43 devpinoyLogger click
+06/10/2014 15:28:43 devpinoyLogger clicked on link -blog
+06/10/2014 15:28:43 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 15:28:43 devpinoyLogger click on blog menu----- click----- Pass
+06/10/2014 15:28:43 devpinoyLogger isElementpresent
+06/10/2014 15:28:43 devpinoyLogger element present in the pagelatestphotos
+06/10/2014 15:28:43 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 15:28:43 devpinoyLogger Veryify latestphotos  link exists in the page----- isElementpresent----- Pass
+06/10/2014 15:28:43 devpinoyLogger isElementpresent
+06/10/2014 15:28:43 devpinoyLogger element present in the pageappartmentlifestyle
+06/10/2014 15:28:43 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 15:28:43 devpinoyLogger Verify appartment lifestyle link exists in the page----- isElementpresent----- Pass
+06/10/2014 15:28:43 devpinoyLogger isElementpresent
+06/10/2014 15:28:43 devpinoyLogger element present in the pagerentersguide
+06/10/2014 15:28:43 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 15:28:43 devpinoyLogger Verify  rentersguide link exists in the page----- isElementpresent----- Pass
+06/10/2014 15:28:43 devpinoyLogger quit
+06/10/2014 15:28:43 devpinoyLogger closed the browser -
+06/10/2014 15:28:43 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 15:28:43 devpinoyLogger Close the browser----- quit----- Pass
+06/10/2014 15:28:43 devpinoyLogger *************************************** TC02 **************************************  Pass
+06/10/2014 15:28:43 devpinoyLogger *************************************** TC03 **************************************  Skip
+06/10/2014 15:28:43 devpinoyLogger *************************************** TC04 **************************************  Skip
+06/10/2014 15:28:43 devpinoyLogger *************************************** TC05 **************************************  Skip
+06/10/2014 15:28:43 devpinoyLogger *************************************** TC06 **************************************  Skip
+06/10/2014 15:28:43 devpinoyLogger *************************************** TC07 **************************************  Skip
+06/10/2014 15:28:43 devpinoyLogger *************************************** TC08 **************************************  Skip
+06/10/2014 15:28:43 devpinoyLogger *************************************** TC09 **************************************  Skip
+06/10/2014 15:28:43 devpinoyLogger *************************************** TC10 **************************************  Skip
+06/10/2014 15:28:43 devpinoyLogger *************************************** TC11 **************************************  Skip
+06/10/2014 15:28:43 devpinoyLogger *************************************** TC12 **************************************  Skip
+06/10/2014 15:28:43 devpinoyLogger *************************************** TC13 **************************************  Skip
+06/10/2014 15:28:43 devpinoyLogger *************************************** TC14 **************************************  Skip
+06/10/2014 15:28:43 devpinoyLogger *************************************** TC15 **************************************  Skip
+06/10/2014 15:28:43 devpinoyLogger *************************************** TC16 **************************************  Skip
+06/10/2014 15:28:43 devpinoyLogger *************************************** TC17 **************************************  Skip
+06/10/2014 15:28:43 devpinoyLogger *************************************** TC18 **************************************  Skip
+06/10/2014 15:28:43 devpinoyLogger *************************************** TC19 **************************************  Skip
+06/10/2014 15:28:43 devpinoyLogger *************************************** TC20 **************************************  Skip
+06/10/2014 15:28:43 devpinoyLogger Test suite end time 03:28:43 PM

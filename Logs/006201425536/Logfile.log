@@ -1,0 +1,850 @@
+06/10/2014 14:55:36 devpinoyLogger Test started time 02:55:36 PM
+06/10/2014 14:55:36 devpinoyLogger loaded QA properties file
+06/10/2014 14:55:36 devpinoyLogger loaded Object repository properties file
+06/10/2014 14:55:36 devpinoyLogger loaded test repository and data repository files
+06/10/2014 14:55:36 devpinoyLogger *************************************** TC01 **************************************  Skip
+06/10/2014 14:55:36 devpinoyLogger Executing the test *************TC02  ***********************
+06/10/2014 14:55:36 devpinoyLogger openbrowser
+06/10/2014 14:55:42 devpinoyLogger Launched firefox browser 
+06/10/2014 14:55:42 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:55:42 devpinoyLogger launch the browser----- openbrowser----- Pass
+06/10/2014 14:55:42 devpinoyLogger navigate
+06/10/2014 14:55:52 devpinoyLogger naviagted to the URL-http://www.qa3.mynewplace.com/
+06/10/2014 14:55:52 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:55:52 devpinoyLogger Navigate to the mynewplace application----- navigate----- Pass
+06/10/2014 14:55:52 devpinoyLogger click
+06/10/2014 14:55:52 devpinoyLogger clicked on link -blog
+06/10/2014 14:55:52 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:55:52 devpinoyLogger click on blog menu----- click----- Pass
+06/10/2014 14:55:52 devpinoyLogger isElementpresent
+06/10/2014 14:55:52 devpinoyLogger element present in the pagelatestphotos
+06/10/2014 14:55:52 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:55:52 devpinoyLogger Veryify latestphotos  link exists in the page----- isElementpresent----- Pass
+06/10/2014 14:55:52 devpinoyLogger isElementpresent
+06/10/2014 14:55:52 devpinoyLogger element present in the pageappartmentlifestyle
+06/10/2014 14:55:52 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:55:52 devpinoyLogger Verify appartment lifestyle link exists in the page----- isElementpresent----- Pass
+06/10/2014 14:55:52 devpinoyLogger isElementpresent
+06/10/2014 14:55:52 devpinoyLogger element present in the pagerentersguide
+06/10/2014 14:55:52 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:55:52 devpinoyLogger Verify  rentersguide link exists in the page----- isElementpresent----- Pass
+06/10/2014 14:55:52 devpinoyLogger close
+06/10/2014 14:55:52 devpinoyLogger closed the browser -
+06/10/2014 14:55:52 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:55:52 devpinoyLogger Close the browser----- close----- Pass
+06/10/2014 14:55:52 devpinoyLogger *************************************** TC02 **************************************  Pass
+06/10/2014 14:55:52 devpinoyLogger *************************************** TC03 **************************************  Skip
+06/10/2014 14:55:52 devpinoyLogger *************************************** TC04 **************************************  Skip
+06/10/2014 14:55:52 devpinoyLogger *************************************** TC05 **************************************  Skip
+06/10/2014 14:55:52 devpinoyLogger *************************************** TC06 **************************************  Skip
+06/10/2014 14:55:52 devpinoyLogger Executing the test *************TC07  ***********************
+06/10/2014 14:55:52 devpinoyLogger openbrowser
+06/10/2014 14:55:56 devpinoyLogger Launched firefox browser 
+06/10/2014 14:55:56 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:55:56 devpinoyLogger launch the browser----- openbrowser----- Pass
+06/10/2014 14:55:56 devpinoyLogger navigate
+06/10/2014 14:56:02 devpinoyLogger naviagted to the URL-http:ccs.qa3.myleasestar.com/
+06/10/2014 14:56:02 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:02 devpinoyLogger Navigate to the mynewplace application----- navigate----- Pass
+06/10/2014 14:56:02 devpinoyLogger waitproperty
+06/10/2014 14:56:02 devpinoyLogger wait for the application to load-30
+06/10/2014 14:56:02 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:02 devpinoyLogger Wait to load the page----- waitproperty----- Pass
+06/10/2014 14:56:02 devpinoyLogger sendkeys
+06/10/2014 14:56:02 devpinoyLogger Entered Value on textbox -CCS_Username
+06/10/2014 14:56:02 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:02 devpinoyLogger Enter the Email Address in UserName Field----- sendkeys----- Pass
+06/10/2014 14:56:02 devpinoyLogger sendkeys
+06/10/2014 14:56:02 devpinoyLogger Entered Value on textbox -CCS_Password
+06/10/2014 14:56:02 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:02 devpinoyLogger Enter the Password in Password Field----- sendkeys----- Pass
+06/10/2014 14:56:02 devpinoyLogger click
+06/10/2014 14:56:03 devpinoyLogger clicked on link -CCS_Signin
+06/10/2014 14:56:03 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:03 devpinoyLogger Click on Sign on Button----- click----- Pass
+06/10/2014 14:56:03 devpinoyLogger isElementpresent
+06/10/2014 14:56:03 devpinoyLogger element present in the pageCCS_HeaderPage
+06/10/2014 14:56:03 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:03 devpinoyLogger Verify the Home Page display----- isElementpresent----- Pass
+06/10/2014 14:56:03 devpinoyLogger click
+06/10/2014 14:56:04 devpinoyLogger clicked on link -CCS_NewCompanyLink
+06/10/2014 14:56:04 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:04 devpinoyLogger Click on New Contact Link----- click----- Pass
+06/10/2014 14:56:04 devpinoyLogger selectItembyOptiontag
+06/10/2014 14:56:04 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:04 devpinoyLogger Select the FirstNamePrefix----- selectItembyOptiontag----- Pass
+06/10/2014 14:56:04 devpinoyLogger sendkeys
+06/10/2014 14:56:04 devpinoyLogger Entered Value on textbox -CCS_ContactFirstName
+06/10/2014 14:56:04 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:04 devpinoyLogger Enter the FirstName----- sendkeys----- Pass
+06/10/2014 14:56:04 devpinoyLogger sendkeys
+06/10/2014 14:56:04 devpinoyLogger Entered Value on textbox -CCS_ContactLastName
+06/10/2014 14:56:04 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:04 devpinoyLogger Enter the Last Name----- sendkeys----- Pass
+06/10/2014 14:56:04 devpinoyLogger capturecurrentwindow
+06/10/2014 14:56:04 devpinoyLogger Captured the window Name as -{43c1f08a-f16f-4ea1-ac52-11ce3f6e46a5}
+06/10/2014 14:56:04 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:04 devpinoyLogger Capturing the CurrentWindowName----- capturecurrentwindow----- Pass
+06/10/2014 14:56:04 devpinoyLogger click
+06/10/2014 14:56:05 devpinoyLogger clicked on link -CCS_ContactCompanySearch
+06/10/2014 14:56:05 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:05 devpinoyLogger Click on Search Company Icon----- click----- Pass
+06/10/2014 14:56:05 devpinoyLogger switchtowindow
+06/10/2014 14:56:15 devpinoyLogger Switched to the new window-LeaseStar CCS - ContactLookupAssign
+06/10/2014 14:56:15 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:15 devpinoyLogger Switch to Another Window----- switchtowindow----- Pass
+06/10/2014 14:56:15 devpinoyLogger sendkeys
+06/10/2014 14:56:15 devpinoyLogger Entered Value on textbox -CCS_WindowSearchtheCompany
+06/10/2014 14:56:15 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:15 devpinoyLogger Enter the Searche Copmany----- sendkeys----- Pass
+06/10/2014 14:56:15 devpinoyLogger click
+06/10/2014 14:56:15 devpinoyLogger clicked on link -CCS_Search
+06/10/2014 14:56:15 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:15 devpinoyLogger Click on Search Button----- click----- Pass
+06/10/2014 14:56:15 devpinoyLogger click
+06/10/2014 14:56:15 devpinoyLogger clicked on link -CCS_SearchCompany
+06/10/2014 14:56:15 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:15 devpinoyLogger Click on Company----- click----- Pass
+06/10/2014 14:56:15 devpinoyLogger switchtodefaultwindow
+06/10/2014 14:56:15 devpinoyLogger Switched to defaulte window-{43c1f08a-f16f-4ea1-ac52-11ce3f6e46a5}
+06/10/2014 14:56:15 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:15 devpinoyLogger Switch to the default window----- switchtodefaultwindow----- Pass
+06/10/2014 14:56:15 devpinoyLogger selectItembyOptiontag
+06/10/2014 14:56:16 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:16 devpinoyLogger Select role----- selectItembyOptiontag----- Pass
+06/10/2014 14:56:16 devpinoyLogger randomMailId
+06/10/2014 14:56:16 devpinoyLogger Enter test in the  email textbox -testmail1412587576793@gmail.com
+06/10/2014 14:56:16 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:16 devpinoyLogger Enter the Email Address in Email Id Field----- randomMailId----- Pass
+06/10/2014 14:56:16 devpinoyLogger getattribute
+06/10/2014 14:56:16 devpinoyLogger Stored text testmail1412587576731@gmail.com
+06/10/2014 14:56:16 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:16 devpinoyLogger Capturing the Email Id----- getattribute----- Pass
+06/10/2014 14:56:16 devpinoyLogger sendkeys
+06/10/2014 14:56:16 devpinoyLogger Entered Value on textbox -CCS_ContactPhoneNumber
+06/10/2014 14:56:16 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:16 devpinoyLogger Enter the Phone Number----- sendkeys----- Pass
+06/10/2014 14:56:16 devpinoyLogger sendkeys
+06/10/2014 14:56:17 devpinoyLogger Entered Value on textbox -CCS_ContactMobileNumber
+06/10/2014 14:56:17 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:17 devpinoyLogger Enter the Mobile Number----- sendkeys----- Pass
+06/10/2014 14:56:17 devpinoyLogger sendkeys
+06/10/2014 14:56:17 devpinoyLogger Entered Value on textbox -CCS_AttenlineEditField
+06/10/2014 14:56:17 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:17 devpinoyLogger Enter the CareofAddress----- sendkeys----- Pass
+06/10/2014 14:56:17 devpinoyLogger sendkeys
+06/10/2014 14:56:17 devpinoyLogger Entered Value on textbox -CCS_ContactAddress1Field
+06/10/2014 14:56:17 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:17 devpinoyLogger Enter the Address1Field----- sendkeys----- Pass
+06/10/2014 14:56:17 devpinoyLogger sendkeys
+06/10/2014 14:56:17 devpinoyLogger Entered Value on textbox -CCS_ContactAddress2Field
+06/10/2014 14:56:17 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:17 devpinoyLogger Enter the Address2 Field----- sendkeys----- Pass
+06/10/2014 14:56:17 devpinoyLogger sendkeys
+06/10/2014 14:56:17 devpinoyLogger Entered Value on textbox -CCS_ContactCity
+06/10/2014 14:56:17 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:17 devpinoyLogger Enter the City----- sendkeys----- Pass
+06/10/2014 14:56:17 devpinoyLogger selectItembyOptiontag
+06/10/2014 14:56:18 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:18 devpinoyLogger Select the State----- selectItembyOptiontag----- Pass
+06/10/2014 14:56:18 devpinoyLogger sendkeys
+06/10/2014 14:56:18 devpinoyLogger Entered Value on textbox -CCS_ContactZipcode
+06/10/2014 14:56:18 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:18 devpinoyLogger Enter the Zipcode----- sendkeys----- Pass
+06/10/2014 14:56:18 devpinoyLogger sendkeys
+06/10/2014 14:56:18 devpinoyLogger Entered Value on textbox -CCS_ContactNotes
+06/10/2014 14:56:18 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:18 devpinoyLogger Enter the Notes----- sendkeys----- Pass
+06/10/2014 14:56:18 devpinoyLogger click
+06/10/2014 14:56:18 devpinoyLogger clicked on link -CCS_ContactSave
+06/10/2014 14:56:18 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:18 devpinoyLogger Click on Save Button----- click----- Pass
+06/10/2014 14:56:18 devpinoyLogger sleep
+06/10/2014 14:56:21 devpinoyLogger wait for the application to load-3000
+06/10/2014 14:56:21 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:21 devpinoyLogger Wait ----- sleep----- Pass
+06/10/2014 14:56:21 devpinoyLogger activateElement
+06/10/2014 14:56:21 devpinoyLogger Enter the element status - Element is  Activated
+06/10/2014 14:56:21 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:21 devpinoyLogger Click on Ok Button----- activateElement----- Pass
+06/10/2014 14:56:21 devpinoyLogger switchtodefaultwindow
+06/10/2014 14:56:21 devpinoyLogger Switched to defaulte window-null
+06/10/2014 14:56:21 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:21 devpinoyLogger Switching to the Default window----- switchtodefaultwindow----- Pass
+06/10/2014 14:56:21 devpinoyLogger click
+06/10/2014 14:56:30 devpinoyLogger clicked on link -CCS_ContactSave
+06/10/2014 14:56:30 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:30 devpinoyLogger Click on Save Button----- click----- Pass
+06/10/2014 14:56:30 devpinoyLogger click
+06/10/2014 14:56:31 devpinoyLogger clicked on link -CCS_ContactEdit
+06/10/2014 14:56:31 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:31 devpinoyLogger Click on Edit Button----- click----- Pass
+06/10/2014 14:56:31 devpinoyLogger scleartext
+06/10/2014 14:56:31 devpinoyLogger Enter the element status - Data Cleared
+06/10/2014 14:56:31 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:31 devpinoyLogger Clear the CO Address Field Text----- scleartext----- Pass
+06/10/2014 14:56:31 devpinoyLogger sendkeys
+06/10/2014 14:56:31 devpinoyLogger Entered Value on textbox -CCS_AttenlineEditField
+06/10/2014 14:56:31 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:31 devpinoyLogger Enter the Edit COAddress Text----- sendkeys----- Pass
+06/10/2014 14:56:31 devpinoyLogger click
+06/10/2014 14:56:32 devpinoyLogger clicked on link -CCS_ContactSave
+06/10/2014 14:56:32 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:32 devpinoyLogger Click on Save Button----- click----- Pass
+06/10/2014 14:56:32 devpinoyLogger verifytext
+06/10/2014 14:56:32 devpinoyLogger text exist in the pageTestCompanyNameEdit
+06/10/2014 14:56:32 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:32 devpinoyLogger Verify the CO Address Edited Text----- verifytext----- Pass
+06/10/2014 14:56:32 devpinoyLogger quit
+06/10/2014 14:56:32 devpinoyLogger closed the browser -
+06/10/2014 14:56:32 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:32 devpinoyLogger Close the Browser----- quit----- Pass
+06/10/2014 14:56:32 devpinoyLogger *************************************** TC07 **************************************  Pass
+06/10/2014 14:56:32 devpinoyLogger Executing the test *************TC08  ***********************
+06/10/2014 14:56:32 devpinoyLogger openbrowser
+06/10/2014 14:56:35 devpinoyLogger Launched firefox browser 
+06/10/2014 14:56:35 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:35 devpinoyLogger launch the browser----- openbrowser----- Pass
+06/10/2014 14:56:35 devpinoyLogger navigate
+06/10/2014 14:56:39 devpinoyLogger naviagted to the URL-http:ccs.qa3.myleasestar.com/
+06/10/2014 14:56:39 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:39 devpinoyLogger Navigate to the mynewplace application----- navigate----- Pass
+06/10/2014 14:56:39 devpinoyLogger waitproperty
+06/10/2014 14:56:39 devpinoyLogger wait for the application to load-30
+06/10/2014 14:56:39 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:39 devpinoyLogger Wait to load the page----- waitproperty----- Pass
+06/10/2014 14:56:39 devpinoyLogger sendkeys
+06/10/2014 14:56:39 devpinoyLogger Entered Value on textbox -CCS_Username
+06/10/2014 14:56:39 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:39 devpinoyLogger Enter the Email Address in UserName Field----- sendkeys----- Pass
+06/10/2014 14:56:39 devpinoyLogger sendkeys
+06/10/2014 14:56:39 devpinoyLogger Entered Value on textbox -CCS_Password
+06/10/2014 14:56:39 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:39 devpinoyLogger Enter the Password in Password Field----- sendkeys----- Pass
+06/10/2014 14:56:39 devpinoyLogger click
+06/10/2014 14:56:40 devpinoyLogger clicked on link -CCS_Signin
+06/10/2014 14:56:40 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:40 devpinoyLogger Click on Sign on Button----- click----- Pass
+06/10/2014 14:56:40 devpinoyLogger isElementpresent
+06/10/2014 14:56:40 devpinoyLogger element present in the pageCCS_HeaderPage
+06/10/2014 14:56:40 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:40 devpinoyLogger Verify the Home Page display----- isElementpresent----- Pass
+06/10/2014 14:56:40 devpinoyLogger click
+06/10/2014 14:56:41 devpinoyLogger clicked on link -CCS_Addcompany
+06/10/2014 14:56:41 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:41 devpinoyLogger Click on the Add Company----- click----- Pass
+06/10/2014 14:56:41 devpinoyLogger sendkeys
+06/10/2014 14:56:41 devpinoyLogger Entered Value on textbox -CCS_SearchCompanyName
+06/10/2014 14:56:41 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:41 devpinoyLogger Enter the Company name in Search CompanyField----- sendkeys----- Pass
+06/10/2014 14:56:41 devpinoyLogger click
+06/10/2014 14:56:42 devpinoyLogger clicked on link -CCS_CompanySearchButton
+06/10/2014 14:56:42 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:42 devpinoyLogger Click on Search Button----- click----- Pass
+06/10/2014 14:56:42 devpinoyLogger getinnerText
+06/10/2014 14:56:42 devpinoyLogger Stored text LeaseStar Demo Company
+06/10/2014 14:56:42 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:42 devpinoyLogger Capturing the Company Name----- getinnerText----- Pass
+06/10/2014 14:56:42 devpinoyLogger click
+06/10/2014 14:56:46 devpinoyLogger clicked on link -CCS_DemoCompanyNameLink
+06/10/2014 14:56:46 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:46 devpinoyLogger Click on CompanyLink----- click----- Pass
+06/10/2014 14:56:46 devpinoyLogger selectajaxItemdropdown
+06/10/2014 14:56:46 devpinoyLogger AjaxItem is selected null
+06/10/2014 14:56:46 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:46 devpinoyLogger Click on PropertiesTabLink From Company Page----- selectajaxItemdropdown----- Pass
+06/10/2014 14:56:46 devpinoyLogger click
+06/10/2014 14:56:50 devpinoyLogger clicked on link -CCS_Addproperties
+06/10/2014 14:56:50 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:50 devpinoyLogger Clicking on the New Properties Button----- click----- Pass
+06/10/2014 14:56:50 devpinoyLogger Randomtext
+06/10/2014 14:56:50 devpinoyLogger Enter test in the textbox -QASSProperty1412587610547
+06/10/2014 14:56:50 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:50 devpinoyLogger Enter the PropertyName----- Randomtext----- Pass
+06/10/2014 14:56:50 devpinoyLogger getattribute
+06/10/2014 14:56:50 devpinoyLogger Stored text QASSProperty1412587610547
+06/10/2014 14:56:50 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:50 devpinoyLogger Capturing the RandomPropertyName----- getattribute----- Pass
+06/10/2014 14:56:50 devpinoyLogger clickonobjectusingcoordinates
+06/10/2014 14:56:50 devpinoyLogger clicked on link -CCS_ActiveCheckBox
+06/10/2014 14:56:50 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:50 devpinoyLogger Click on Check Box----- clickonobjectusingcoordinates----- Pass
+06/10/2014 14:56:50 devpinoyLogger ExportedSetData
+06/10/2014 14:56:50 devpinoyLogger Enterd the Exported text as LeaseStar Demo Company
+06/10/2014 14:56:50 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:50 devpinoyLogger Enter the Management Company----- ExportedSetData----- Pass
+06/10/2014 14:56:50 devpinoyLogger selectajaxItemdropdown
+06/10/2014 14:56:51 devpinoyLogger AjaxItem is selected LeaseStar Demo Company
+06/10/2014 14:56:51 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:51 devpinoyLogger Select the Management Company From AjaxDropList----- selectajaxItemdropdown----- Pass
+06/10/2014 14:56:51 devpinoyLogger sendkeys
+06/10/2014 14:56:51 devpinoyLogger Entered Value on textbox -CCS_PrimaryAddress
+06/10/2014 14:56:51 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:51 devpinoyLogger Enter the Primary Address----- sendkeys----- Pass
+06/10/2014 14:56:51 devpinoyLogger sendkeys
+06/10/2014 14:56:52 devpinoyLogger Entered Value on textbox -CCS_ZIPPostalCode
+06/10/2014 14:56:52 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:52 devpinoyLogger Enter the ZipPostal Code----- sendkeys----- Pass
+06/10/2014 14:56:52 devpinoyLogger sleep
+06/10/2014 14:56:55 devpinoyLogger wait for the application to load-3000
+06/10/2014 14:56:55 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:55 devpinoyLogger Wait ----- sleep----- Pass
+06/10/2014 14:56:55 devpinoyLogger selectajaxItemdropdown
+06/10/2014 14:56:55 devpinoyLogger AjaxItem is selected null
+06/10/2014 14:56:55 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:55 devpinoyLogger Select the ZipPostal From AjaxDropList----- selectajaxItemdropdown----- Pass
+06/10/2014 14:56:55 devpinoyLogger sendkeys
+06/10/2014 14:56:55 devpinoyLogger Entered Value on textbox -CCS_Units
+06/10/2014 14:56:55 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:55 devpinoyLogger Enter the Units----- sendkeys----- Pass
+06/10/2014 14:56:55 devpinoyLogger sendkeys
+06/10/2014 14:56:55 devpinoyLogger Entered Value on textbox -CCS_PrimaryContact
+06/10/2014 14:56:55 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:55 devpinoyLogger Enter the PrimaryContact----- sendkeys----- Pass
+06/10/2014 14:56:55 devpinoyLogger sleep
+06/10/2014 14:56:58 devpinoyLogger wait for the application to load-3000
+06/10/2014 14:56:58 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:58 devpinoyLogger Wait ----- sleep----- Pass
+06/10/2014 14:56:58 devpinoyLogger selectajaxItemdropdown
+06/10/2014 14:56:58 devpinoyLogger AjaxItem is selected null
+06/10/2014 14:56:58 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:58 devpinoyLogger Select the ContactPerson From AjaxDropList----- selectajaxItemdropdown----- Pass
+06/10/2014 14:56:58 devpinoyLogger selectItembyOptiontag
+06/10/2014 14:56:58 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:58 devpinoyLogger Select the AccountManager----- selectItembyOptiontag----- Pass
+06/10/2014 14:56:58 devpinoyLogger sendkeys
+06/10/2014 14:56:58 devpinoyLogger Entered Value on textbox -CCS_Latitude
+06/10/2014 14:56:58 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:58 devpinoyLogger Enter the Latitude----- sendkeys----- Pass
+06/10/2014 14:56:58 devpinoyLogger sendkeys
+06/10/2014 14:56:58 devpinoyLogger Entered Value on textbox -CCS_Longitude
+06/10/2014 14:56:58 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:58 devpinoyLogger Enter the Longitude----- sendkeys----- Pass
+06/10/2014 14:56:58 devpinoyLogger sendkeys
+06/10/2014 14:56:58 devpinoyLogger Entered Value on textbox -CCS_PrimaryContactNumbers1
+06/10/2014 14:56:58 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:58 devpinoyLogger Enter the PrimaryContact Numbers1----- sendkeys----- Pass
+06/10/2014 14:56:58 devpinoyLogger sendkeys
+06/10/2014 14:56:58 devpinoyLogger Entered Value on textbox -CCS_PrimaryContactNumbers2
+06/10/2014 14:56:58 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:58 devpinoyLogger Enter the PrimaryContact Numbers2----- sendkeys----- Pass
+06/10/2014 14:56:58 devpinoyLogger sendkeys
+06/10/2014 14:56:59 devpinoyLogger Entered Value on textbox -CCS_PrimaryContactNumbers3
+06/10/2014 14:56:59 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:56:59 devpinoyLogger Enter the PrimaryContact Numbers3----- sendkeys----- Pass
+06/10/2014 14:56:59 devpinoyLogger click
+06/10/2014 14:57:03 devpinoyLogger clicked on link -CCS_SaveButton
+06/10/2014 14:57:03 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:03 devpinoyLogger Click on Save Button----- click----- Pass
+06/10/2014 14:57:03 devpinoyLogger scleartext
+06/10/2014 14:57:03 devpinoyLogger Enter the element status - Data Cleared
+06/10/2014 14:57:03 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:03 devpinoyLogger Clear the Text in Property Field----- scleartext----- Pass
+06/10/2014 14:57:03 devpinoyLogger ExportedSetData
+06/10/2014 14:57:03 devpinoyLogger Enterd the Exported text as QASSProperty1412587610547
+06/10/2014 14:57:03 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:03 devpinoyLogger Enter the Created Property----- ExportedSetData----- Pass
+06/10/2014 14:57:03 devpinoyLogger click
+06/10/2014 14:57:06 devpinoyLogger clicked on link -CCS_SearchProperty
+06/10/2014 14:57:06 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:06 devpinoyLogger Click on Search Property Button----- click----- Pass
+06/10/2014 14:57:06 devpinoyLogger click
+06/10/2014 14:57:07 devpinoyLogger clicked on link -CCS_EditPropertImage
+06/10/2014 14:57:07 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:07 devpinoyLogger Clicking on the Edit Property----- click----- Pass
+06/10/2014 14:57:07 devpinoyLogger scleartext
+06/10/2014 14:57:07 devpinoyLogger Enter the element status - Data Cleared
+06/10/2014 14:57:07 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:07 devpinoyLogger Clear the Text in Zip Code Field----- scleartext----- Pass
+06/10/2014 14:57:07 devpinoyLogger sendkeys
+06/10/2014 14:57:07 devpinoyLogger Entered Value on textbox -CCS_PrimaryAddress
+06/10/2014 14:57:07 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:07 devpinoyLogger Enter the ZipPostal Code----- sendkeys----- Pass
+06/10/2014 14:57:07 devpinoyLogger click
+06/10/2014 14:57:12 devpinoyLogger clicked on link -CCS_EditPropertySavebutton
+06/10/2014 14:57:12 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:12 devpinoyLogger Click on Save Button----- click----- Pass
+06/10/2014 14:57:12 devpinoyLogger verifytext
+06/10/2014 14:57:12 devpinoyLogger text exist in the pagePeoriaedit
+06/10/2014 14:57:12 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:12 devpinoyLogger Compare the Updations for Property Address----- verifytext----- Pass
+06/10/2014 14:57:12 devpinoyLogger close
+06/10/2014 14:57:12 devpinoyLogger closed the browser -
+06/10/2014 14:57:12 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:12 devpinoyLogger Close the Browser----- close----- Pass
+06/10/2014 14:57:12 devpinoyLogger *************************************** TC08 **************************************  Pass
+06/10/2014 14:57:12 devpinoyLogger Executing the test *************TC09  ***********************
+06/10/2014 14:57:12 devpinoyLogger openbrowser
+06/10/2014 14:57:15 devpinoyLogger Launched firefox browser 
+06/10/2014 14:57:15 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:15 devpinoyLogger launch the browser----- openbrowser----- Pass
+06/10/2014 14:57:15 devpinoyLogger navigate
+06/10/2014 14:57:18 devpinoyLogger naviagted to the URL-http:ccs.qa3.myleasestar.com/
+06/10/2014 14:57:18 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:18 devpinoyLogger Navigate to the mynewplace application----- navigate----- Pass
+06/10/2014 14:57:18 devpinoyLogger waitproperty
+06/10/2014 14:57:18 devpinoyLogger wait for the application to load-30000
+06/10/2014 14:57:18 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:18 devpinoyLogger Wait to load the page----- waitproperty----- Pass
+06/10/2014 14:57:18 devpinoyLogger sendkeys
+06/10/2014 14:57:18 devpinoyLogger Entered Value on textbox -CCS_Username
+06/10/2014 14:57:18 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:18 devpinoyLogger Enter the Email Address in UserName Field----- sendkeys----- Pass
+06/10/2014 14:57:18 devpinoyLogger sendkeys
+06/10/2014 14:57:19 devpinoyLogger Entered Value on textbox -CCS_Password
+06/10/2014 14:57:19 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:19 devpinoyLogger Enter the Password in Password Field----- sendkeys----- Pass
+06/10/2014 14:57:19 devpinoyLogger click
+06/10/2014 14:57:20 devpinoyLogger clicked on link -CCS_Signin
+06/10/2014 14:57:20 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:20 devpinoyLogger Click on Sign on Button----- click----- Pass
+06/10/2014 14:57:20 devpinoyLogger isElementpresent
+06/10/2014 14:57:20 devpinoyLogger element present in the pageCCS_HeaderPage
+06/10/2014 14:57:20 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:20 devpinoyLogger Verify the Home Page display----- isElementpresent----- Pass
+06/10/2014 14:57:20 devpinoyLogger click
+06/10/2014 14:57:21 devpinoyLogger clicked on link -CCS_PropertiesTab
+06/10/2014 14:57:21 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:21 devpinoyLogger Click on Properties Tab----- click----- Pass
+06/10/2014 14:57:21 devpinoyLogger isrefreshed
+06/10/2014 14:57:27 devpinoyLogger Driver Got refreshed
+06/10/2014 14:57:27 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:27 devpinoyLogger Refresh the browser----- isrefreshed----- Pass
+06/10/2014 14:57:27 devpinoyLogger ExportedSetData
+06/10/2014 14:57:27 devpinoyLogger Enterd the Exported text as QASSProperty1412587610547
+06/10/2014 14:57:27 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:27 devpinoyLogger Enter the Created Property----- ExportedSetData----- Pass
+06/10/2014 14:57:27 devpinoyLogger click
+06/10/2014 14:57:29 devpinoyLogger clicked on link -CCS_SearchProperty
+06/10/2014 14:57:29 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:29 devpinoyLogger Click on Search Property Button----- click----- Pass
+06/10/2014 14:57:29 devpinoyLogger click
+06/10/2014 14:57:31 devpinoyLogger clicked on link -CCS_PropertyClick
+06/10/2014 14:57:31 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:31 devpinoyLogger Clicking on the Edit Property----- click----- Pass
+06/10/2014 14:57:31 devpinoyLogger click
+06/10/2014 14:57:31 devpinoyLogger clicked on link -CCS_FloorPlanLink
+06/10/2014 14:57:31 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:31 devpinoyLogger Clicking on the FloorPlan Tab----- click----- Pass
+06/10/2014 14:57:31 devpinoyLogger click
+06/10/2014 14:57:32 devpinoyLogger clicked on link -CCS_AddingFloorPlan
+06/10/2014 14:57:32 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:32 devpinoyLogger Click on the Add FloorPlanIcon----- click----- Pass
+06/10/2014 14:57:32 devpinoyLogger Randomtext
+06/10/2014 14:57:33 devpinoyLogger Enter test in the textbox -QASSFloorplan1412587652934
+06/10/2014 14:57:33 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:33 devpinoyLogger Enter the ShortName----- Randomtext----- Pass
+06/10/2014 14:57:33 devpinoyLogger getattribute
+06/10/2014 14:57:33 devpinoyLogger Stored text QASSFloorplan1412587652934
+06/10/2014 14:57:33 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:33 devpinoyLogger Capturing the RandomFloorName----- getattribute----- Pass
+06/10/2014 14:57:33 devpinoyLogger selectValueByText
+06/10/2014 14:57:33 devpinoyLogger Enter the element status - Element is  selected as 2
+06/10/2014 14:57:33 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:33 devpinoyLogger Select the No of BedRooms----- selectValueByText----- Pass
+06/10/2014 14:57:33 devpinoyLogger selectValueByText
+06/10/2014 14:57:33 devpinoyLogger Enter the element status - Element is  selected as 1
+06/10/2014 14:57:33 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:33 devpinoyLogger Select the No of BathRooms----- selectValueByText----- Pass
+06/10/2014 14:57:33 devpinoyLogger sendkeys
+06/10/2014 14:57:33 devpinoyLogger Entered Value on textbox -CCS_MinimumSquarefeet
+06/10/2014 14:57:33 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:33 devpinoyLogger Enter the Minimum square feet in the textbox----- sendkeys----- Pass
+06/10/2014 14:57:33 devpinoyLogger sendkeys
+06/10/2014 14:57:33 devpinoyLogger Entered Value on textbox -CCS_MaximumSquarefeet
+06/10/2014 14:57:33 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:33 devpinoyLogger Enter the Maximum square feet in the textbox----- sendkeys----- Pass
+06/10/2014 14:57:33 devpinoyLogger selectValueByText
+06/10/2014 14:57:33 devpinoyLogger Enter the element status - Element is  selected as Exact Amount
+06/10/2014 14:57:33 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:33 devpinoyLogger Select the item from the floor rent type dropdown box----- selectValueByText----- Pass
+06/10/2014 14:57:33 devpinoyLogger sendkeys
+06/10/2014 14:57:33 devpinoyLogger Entered Value on textbox -CCS_RentAmount
+06/10/2014 14:57:33 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:33 devpinoyLogger Enter Rent Amount----- sendkeys----- Pass
+06/10/2014 14:57:33 devpinoyLogger click
+06/10/2014 14:57:36 devpinoyLogger clicked on link -CCS_FloorplanSavebutton
+06/10/2014 14:57:36 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:36 devpinoyLogger Click onSave Button----- click----- Pass
+06/10/2014 14:57:36 devpinoyLogger click
+06/10/2014 14:57:37 devpinoyLogger clicked on link -CCS_FloorEdit
+06/10/2014 14:57:37 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:37 devpinoyLogger Click on the floor plan edit button----- click----- Pass
+06/10/2014 14:57:37 devpinoyLogger sendkeys
+06/10/2014 14:57:37 devpinoyLogger Entered Value on textbox -CCS_FloorComment
+06/10/2014 14:57:37 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:37 devpinoyLogger Enter Comment in the comment textbox----- sendkeys----- Pass
+06/10/2014 14:57:37 devpinoyLogger click
+06/10/2014 14:57:39 devpinoyLogger clicked on link -CCS_FloorplanSavebutton
+06/10/2014 14:57:39 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:39 devpinoyLogger Click onSave Button----- click----- Pass
+06/10/2014 14:57:39 devpinoyLogger verifytext
+06/10/2014 14:57:39 devpinoyLogger text exist in the pageThe Floor Plan is Excellent
+06/10/2014 14:57:39 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:39 devpinoyLogger Verify the CO Address Edited Text----- verifytext----- Pass
+06/10/2014 14:57:39 devpinoyLogger close
+06/10/2014 14:57:39 devpinoyLogger closed the browser -
+06/10/2014 14:57:39 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:39 devpinoyLogger Close the Browser----- close----- Pass
+06/10/2014 14:57:39 devpinoyLogger *************************************** TC09 **************************************  Pass
+06/10/2014 14:57:39 devpinoyLogger *************************************** TC10 **************************************  Skip
+06/10/2014 14:57:39 devpinoyLogger Executing the test *************TC11  ***********************
+06/10/2014 14:57:39 devpinoyLogger openbrowser
+06/10/2014 14:57:42 devpinoyLogger Launched firefox browser 
+06/10/2014 14:57:42 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:42 devpinoyLogger launch the browser----- openbrowser----- Pass
+06/10/2014 14:57:42 devpinoyLogger navigate
+06/10/2014 14:57:45 devpinoyLogger naviagted to the URL-http:ccs.qa3.myleasestar.com/
+06/10/2014 14:57:45 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:45 devpinoyLogger Navigate to the mynewplace application----- navigate----- Pass
+06/10/2014 14:57:45 devpinoyLogger waitproperty
+06/10/2014 14:57:45 devpinoyLogger wait for the application to load-30000
+06/10/2014 14:57:45 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:45 devpinoyLogger Wait to load the page----- waitproperty----- Pass
+06/10/2014 14:57:45 devpinoyLogger sendkeys
+06/10/2014 14:57:45 devpinoyLogger Entered Value on textbox -CCS_Username
+06/10/2014 14:57:45 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:45 devpinoyLogger Enter the Email Address in UserName Field----- sendkeys----- Pass
+06/10/2014 14:57:45 devpinoyLogger sendkeys
+06/10/2014 14:57:45 devpinoyLogger Entered Value on textbox -CCS_Password
+06/10/2014 14:57:45 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:45 devpinoyLogger Enter the Password in Password Field----- sendkeys----- Pass
+06/10/2014 14:57:45 devpinoyLogger click
+06/10/2014 14:57:46 devpinoyLogger clicked on link -CCS_Signin
+06/10/2014 14:57:46 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:46 devpinoyLogger Click on Sign on Button----- click----- Pass
+06/10/2014 14:57:46 devpinoyLogger isElementpresent
+06/10/2014 14:57:46 devpinoyLogger element present in the pageCCS_HeaderPage
+06/10/2014 14:57:46 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:46 devpinoyLogger Verify the Home Page display----- isElementpresent----- Pass
+06/10/2014 14:57:46 devpinoyLogger click
+06/10/2014 14:57:50 devpinoyLogger clicked on link -CCS_PropertiesTab
+06/10/2014 14:57:50 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:50 devpinoyLogger Click on Properties Tab----- click----- Pass
+06/10/2014 14:57:50 devpinoyLogger isrefreshed
+06/10/2014 14:57:57 devpinoyLogger Driver Got refreshed
+06/10/2014 14:57:57 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:57 devpinoyLogger Refresh the browser----- isrefreshed----- Pass
+06/10/2014 14:57:57 devpinoyLogger ExportedSetData
+06/10/2014 14:57:57 devpinoyLogger Enterd the Exported text as QASSProperty1412587610547
+06/10/2014 14:57:57 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:57:57 devpinoyLogger Enter the Created Property----- ExportedSetData----- Pass
+06/10/2014 14:57:57 devpinoyLogger click
+06/10/2014 14:58:00 devpinoyLogger clicked on link -CCS_SearchProperty
+06/10/2014 14:58:00 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:00 devpinoyLogger Click on Search Property Button----- click----- Pass
+06/10/2014 14:58:00 devpinoyLogger click
+06/10/2014 14:58:00 devpinoyLogger clicked on link -CCS_PropertyClick
+06/10/2014 14:58:00 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:00 devpinoyLogger Clicking on the Edit Property----- click----- Pass
+06/10/2014 14:58:00 devpinoyLogger click
+06/10/2014 14:58:04 devpinoyLogger clicked on link -CCS_PropertyAmenities
+06/10/2014 14:58:04 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:04 devpinoyLogger Clicking on the property amenities button----- click----- Pass
+06/10/2014 14:58:04 devpinoyLogger click
+06/10/2014 14:58:05 devpinoyLogger clicked on link -CCS_ManageAmenities
+06/10/2014 14:58:05 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:05 devpinoyLogger Click on the manage amenities link----- click----- Pass
+06/10/2014 14:58:05 devpinoyLogger click
+06/10/2014 14:58:05 devpinoyLogger clicked on link -CCS_GateAmenity
+06/10/2014 14:58:05 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:05 devpinoyLogger Check Gate checkbox amenitity----- click----- Pass
+06/10/2014 14:58:05 devpinoyLogger click
+06/10/2014 14:58:05 devpinoyLogger clicked on link -CCS_PoolAmentity
+06/10/2014 14:58:05 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:05 devpinoyLogger Check Pool checkbox amenitity----- click----- Pass
+06/10/2014 14:58:05 devpinoyLogger click
+06/10/2014 14:58:05 devpinoyLogger clicked on link -CCS_ElevatorAmentity
+06/10/2014 14:58:05 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:05 devpinoyLogger Check Elevator checkbox amenitity----- click----- Pass
+06/10/2014 14:58:05 devpinoyLogger click
+06/10/2014 14:58:07 devpinoyLogger clicked on link -CCS_PropertyAmenitysavebtn
+06/10/2014 14:58:07 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:07 devpinoyLogger Click onSave Button----- click----- Pass
+06/10/2014 14:58:07 devpinoyLogger verifyAmenitiesDataTable
+06/10/2014 14:58:07 devpinoyLogger text exist in the pageGate
+06/10/2014 14:58:07 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:07 devpinoyLogger Click on the floor plan edit button----- verifyAmenitiesDataTable----- Pass
+06/10/2014 14:58:07 devpinoyLogger verifyAmenitiesDataTable
+06/10/2014 14:58:07 devpinoyLogger text exist in the pagePool
+06/10/2014 14:58:07 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:07 devpinoyLogger Click on the floor plan edit button----- verifyAmenitiesDataTable----- Pass
+06/10/2014 14:58:07 devpinoyLogger verifyAmenitiesDataTable
+06/10/2014 14:58:08 devpinoyLogger text exist in the pageElevator
+06/10/2014 14:58:08 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:08 devpinoyLogger Click on the floor plan edit button----- verifyAmenitiesDataTable----- Pass
+06/10/2014 14:58:08 devpinoyLogger close
+06/10/2014 14:58:08 devpinoyLogger closed the browser -
+06/10/2014 14:58:08 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:08 devpinoyLogger Close the Browser----- close----- Pass
+06/10/2014 14:58:08 devpinoyLogger *************************************** TC11 **************************************  Pass
+06/10/2014 14:58:08 devpinoyLogger Executing the test *************TC12  ***********************
+06/10/2014 14:58:08 devpinoyLogger openbrowser
+06/10/2014 14:58:11 devpinoyLogger Launched firefox browser 
+06/10/2014 14:58:11 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:11 devpinoyLogger launch the browser----- openbrowser----- Pass
+06/10/2014 14:58:11 devpinoyLogger navigate
+06/10/2014 14:58:15 devpinoyLogger naviagted to the URL-http:ccs.qa3.myleasestar.com/
+06/10/2014 14:58:15 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:15 devpinoyLogger Navigate to the mynewplace application----- navigate----- Pass
+06/10/2014 14:58:15 devpinoyLogger waitproperty
+06/10/2014 14:58:15 devpinoyLogger wait for the application to load-30000
+06/10/2014 14:58:15 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:15 devpinoyLogger Wait to load the page----- waitproperty----- Pass
+06/10/2014 14:58:15 devpinoyLogger sendkeys
+06/10/2014 14:58:15 devpinoyLogger Entered Value on textbox -CCS_Username
+06/10/2014 14:58:15 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:15 devpinoyLogger Enter the Email Address in UserName Field----- sendkeys----- Pass
+06/10/2014 14:58:15 devpinoyLogger sendkeys
+06/10/2014 14:58:15 devpinoyLogger Entered Value on textbox -CCS_Password
+06/10/2014 14:58:15 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:15 devpinoyLogger Enter the Password in Password Field----- sendkeys----- Pass
+06/10/2014 14:58:15 devpinoyLogger click
+06/10/2014 14:58:16 devpinoyLogger clicked on link -CCS_Signin
+06/10/2014 14:58:16 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:16 devpinoyLogger Click on Sign on Button----- click----- Pass
+06/10/2014 14:58:16 devpinoyLogger isElementpresent
+06/10/2014 14:58:16 devpinoyLogger element present in the pageCCS_HeaderPage
+06/10/2014 14:58:16 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:16 devpinoyLogger Verify the Home Page display----- isElementpresent----- Pass
+06/10/2014 14:58:16 devpinoyLogger click
+06/10/2014 14:58:18 devpinoyLogger clicked on link -CCS_PropertiesTab
+06/10/2014 14:58:18 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:18 devpinoyLogger Click on Properties Tab----- click----- Pass
+06/10/2014 14:58:18 devpinoyLogger isrefreshed
+06/10/2014 14:58:22 devpinoyLogger Driver Got refreshed
+06/10/2014 14:58:22 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:22 devpinoyLogger Refresh the browser----- isrefreshed----- Pass
+06/10/2014 14:58:22 devpinoyLogger ExportedSetData
+06/10/2014 14:58:23 devpinoyLogger Enterd the Exported text as QASSProperty1412587610547
+06/10/2014 14:58:23 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:23 devpinoyLogger Enter the Created Property----- ExportedSetData----- Pass
+06/10/2014 14:58:23 devpinoyLogger click
+06/10/2014 14:58:25 devpinoyLogger clicked on link -CCS_SearchProperty
+06/10/2014 14:58:25 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:25 devpinoyLogger Click on Search Property Button----- click----- Pass
+06/10/2014 14:58:25 devpinoyLogger click
+06/10/2014 14:58:27 devpinoyLogger clicked on link -CCS_PropertyClick
+06/10/2014 14:58:27 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:27 devpinoyLogger Clicking on the Edit Property----- click----- Pass
+06/10/2014 14:58:27 devpinoyLogger click
+06/10/2014 14:58:27 devpinoyLogger clicked on link -CCS_FloorPlanLink
+06/10/2014 14:58:27 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:27 devpinoyLogger Clicking on the FloorPlan Tab----- click----- Pass
+06/10/2014 14:58:27 devpinoyLogger selectFloorPlanFromDataTable
+06/10/2014 14:58:31 devpinoyLogger text exist in the page
+06/10/2014 14:58:31 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:31 devpinoyLogger Selecting floor plan from the table----- selectFloorPlanFromDataTable----- Pass
+06/10/2014 14:58:31 devpinoyLogger click
+06/10/2014 14:58:33 devpinoyLogger clicked on link -CCS_ManageAmenities
+06/10/2014 14:58:33 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:33 devpinoyLogger Clicking on the Manage Amenities link----- click----- Pass
+06/10/2014 14:58:33 devpinoyLogger click
+06/10/2014 14:58:33 devpinoyLogger clicked on link -CCS_WoodFloorsAmenitity
+06/10/2014 14:58:33 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:33 devpinoyLogger Check Wood floors amenitity----- click----- Pass
+06/10/2014 14:58:33 devpinoyLogger click
+06/10/2014 14:58:33 devpinoyLogger clicked on link -CCS_MicrowaveAmenitity
+06/10/2014 14:58:33 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:33 devpinoyLogger Check Microwave amenitity----- click----- Pass
+06/10/2014 14:58:33 devpinoyLogger click
+06/10/2014 14:58:34 devpinoyLogger clicked on link -CCS_FloorAmenititybtn
+06/10/2014 14:58:34 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:34 devpinoyLogger Click on save button----- click----- Pass
+06/10/2014 14:58:34 devpinoyLogger verifyAmenitiesDataTable
+06/10/2014 14:58:35 devpinoyLogger text exist in the pageWood Floors
+06/10/2014 14:58:35 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:35 devpinoyLogger Click on the floor plan edit button----- verifyAmenitiesDataTable----- Pass
+06/10/2014 14:58:35 devpinoyLogger verifyAmenitiesDataTable
+06/10/2014 14:58:35 devpinoyLogger text exist in the pageMicrowave
+06/10/2014 14:58:35 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:35 devpinoyLogger Click on the floor plan edit button----- verifyAmenitiesDataTable----- Pass
+06/10/2014 14:58:35 devpinoyLogger close
+06/10/2014 14:58:35 devpinoyLogger closed the browser -
+06/10/2014 14:58:35 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:35 devpinoyLogger Close the Browser----- close----- Pass
+06/10/2014 14:58:35 devpinoyLogger *************************************** TC12 **************************************  Pass
+06/10/2014 14:58:35 devpinoyLogger Executing the test *************TC13  ***********************
+06/10/2014 14:58:35 devpinoyLogger openbrowser
+06/10/2014 14:58:38 devpinoyLogger Launched firefox browser 
+06/10/2014 14:58:38 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:38 devpinoyLogger launch the browser----- openbrowser----- Pass
+06/10/2014 14:58:38 devpinoyLogger navigate
+06/10/2014 14:58:42 devpinoyLogger naviagted to the URL-http:ccs.qa3.myleasestar.com/
+06/10/2014 14:58:42 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:42 devpinoyLogger Navigate to the CCS application----- navigate----- Pass
+06/10/2014 14:58:42 devpinoyLogger waitproperty
+06/10/2014 14:58:42 devpinoyLogger wait for the application to load-30000
+06/10/2014 14:58:42 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:42 devpinoyLogger Wait to load the page----- waitproperty----- Pass
+06/10/2014 14:58:42 devpinoyLogger sendkeys
+06/10/2014 14:58:42 devpinoyLogger Entered Value on textbox -CCS_Username
+06/10/2014 14:58:42 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:42 devpinoyLogger Enter the Email Address in UserName Field----- sendkeys----- Pass
+06/10/2014 14:58:42 devpinoyLogger sendkeys
+06/10/2014 14:58:42 devpinoyLogger Entered Value on textbox -CCS_Password
+06/10/2014 14:58:42 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:42 devpinoyLogger Enter the Password in Password Field----- sendkeys----- Pass
+06/10/2014 14:58:42 devpinoyLogger click
+06/10/2014 14:58:43 devpinoyLogger clicked on link -CCS_Signin
+06/10/2014 14:58:43 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:43 devpinoyLogger Click on Sign on Button----- click----- Pass
+06/10/2014 14:58:43 devpinoyLogger isElementpresent
+06/10/2014 14:58:43 devpinoyLogger element present in the pageCCS_HeaderPage
+06/10/2014 14:58:43 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:43 devpinoyLogger Verify the Home Page display----- isElementpresent----- Pass
+06/10/2014 14:58:43 devpinoyLogger click
+06/10/2014 14:58:44 devpinoyLogger clicked on link -CCS_SEMSpend
+06/10/2014 14:58:44 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:44 devpinoyLogger Click on Properties Tab----- click----- Pass
+06/10/2014 14:58:44 devpinoyLogger selectByValue
+06/10/2014 14:58:44 devpinoyLogger Enter the element status - Element is  selected as allContracts
+06/10/2014 14:58:44 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:44 devpinoyLogger Select the search type item from the dropdown box----- selectByValue----- Pass
+06/10/2014 14:58:44 devpinoyLogger click
+06/10/2014 14:58:47 devpinoyLogger clicked on link -CCS_SEMSearch
+06/10/2014 14:58:47 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:47 devpinoyLogger Click on Search Button----- click----- Pass
+06/10/2014 14:58:47 devpinoyLogger selectRandomContractFromTable
+06/10/2014 14:58:49 devpinoyLogger Selected contract randomly
+06/10/2014 14:58:49 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:49 devpinoyLogger Select Contract from the Contract Table----- selectRandomContractFromTable----- Pass
+06/10/2014 14:58:49 devpinoyLogger click
+06/10/2014 14:58:49 devpinoyLogger clicked on link -CCS_EditContract
+06/10/2014 14:58:49 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:49 devpinoyLogger Click on Edit Contract link----- click----- Pass
+06/10/2014 14:58:49 devpinoyLogger sendkeys
+06/10/2014 14:58:49 devpinoyLogger Entered Value on textbox -CCS_AllocationBudget
+06/10/2014 14:58:49 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:49 devpinoyLogger Enter value in the Allocation Budget textbox----- sendkeys----- Pass
+06/10/2014 14:58:49 devpinoyLogger click
+06/10/2014 14:58:51 devpinoyLogger clicked on link -CCS_ContractSave
+06/10/2014 14:58:51 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:51 devpinoyLogger Click on save button----- click----- Pass
+06/10/2014 14:58:51 devpinoyLogger verifytext
+06/10/2014 14:58:51 devpinoyLogger text exist in the pageContract: Updated successfully
+06/10/2014 14:58:51 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:51 devpinoyLogger Verify contract successful message on the page----- verifytext----- Pass
+06/10/2014 14:58:51 devpinoyLogger click
+06/10/2014 14:58:51 devpinoyLogger clicked on link -CCS_EditAllocationBtn
+06/10/2014 14:58:51 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:51 devpinoyLogger Click on Property Allocation edit button----- click----- Pass
+06/10/2014 14:58:51 devpinoyLogger sendkeys
+06/10/2014 14:58:51 devpinoyLogger Entered Value on textbox -CCS_PropertyAllocation
+06/10/2014 14:58:51 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:51 devpinoyLogger Enter value in the Property Allocation textbox----- sendkeys----- Pass
+06/10/2014 14:58:51 devpinoyLogger click
+06/10/2014 14:58:53 devpinoyLogger clicked on link -CCS_PropertiesSave
+06/10/2014 14:58:53 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:53 devpinoyLogger Click on save button----- click----- Pass
+06/10/2014 14:58:53 devpinoyLogger verifytext
+06/10/2014 14:58:53 devpinoyLogger text exist in the pageProperty allocation total exceeds allocation budget.
+06/10/2014 14:58:53 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:53 devpinoyLogger Verify Error message displayed on the page----- verifytext----- Pass
+06/10/2014 14:58:53 devpinoyLogger quit
+06/10/2014 14:58:53 devpinoyLogger closed the browser -
+06/10/2014 14:58:53 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:53 devpinoyLogger Close the Browser----- quit----- Pass
+06/10/2014 14:58:53 devpinoyLogger *************************************** TC13 **************************************  Pass
+06/10/2014 14:58:53 devpinoyLogger *************************************** TC14 **************************************  Skip
+06/10/2014 14:58:53 devpinoyLogger Executing the test *************TC15  ***********************
+06/10/2014 14:58:53 devpinoyLogger openbrowser
+06/10/2014 14:58:56 devpinoyLogger Launched firefox browser 
+06/10/2014 14:58:56 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:58:56 devpinoyLogger launch the browser----- openbrowser----- Pass
+06/10/2014 14:58:56 devpinoyLogger navigate
+06/10/2014 14:59:01 devpinoyLogger naviagted to the URL-http://mc.qa2.myleasestar.com
+06/10/2014 14:59:01 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:59:01 devpinoyLogger Navigate to the Marketing center application----- navigate----- Pass
+06/10/2014 14:59:01 devpinoyLogger waitproperty
+06/10/2014 14:59:01 devpinoyLogger wait for the application to load-30000
+06/10/2014 14:59:01 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:59:01 devpinoyLogger Wait to load the page----- waitproperty----- Pass
+06/10/2014 14:59:01 devpinoyLogger sendkeys
+06/10/2014 14:59:01 devpinoyLogger Entered Value on textbox -MC_Username
+06/10/2014 14:59:01 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:59:01 devpinoyLogger Enter the Email Address in UserName Field----- sendkeys----- Pass
+06/10/2014 14:59:01 devpinoyLogger sendkeys
+06/10/2014 14:59:01 devpinoyLogger Entered Value on textbox -MC_Password
+06/10/2014 14:59:01 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:59:01 devpinoyLogger Enter the Password in Password Field----- sendkeys----- Pass
+06/10/2014 14:59:01 devpinoyLogger click
+06/10/2014 14:59:03 devpinoyLogger clicked on link -MC_Login
+06/10/2014 14:59:03 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:59:03 devpinoyLogger Click on Sign on Button----- click----- Pass
+06/10/2014 14:59:03 devpinoyLogger waitTillVisibilityofElement
+06/10/2014 14:59:03 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:59:03 devpinoyLogger Wait till element exist on the page----- waitTillVisibilityofElement----- Pass
+06/10/2014 14:59:03 devpinoyLogger sendkeys
+06/10/2014 14:59:03 devpinoyLogger Entered Value on textbox -MC_CompanyName
+06/10/2014 14:59:03 devpinoyLogger ************Result of execution************** Pass
+06/10/2014 14:59:03 devpinoyLogger Enter the company name----- sendkeys----- Pass
+06/10/2014 14:59:03 devpinoyLogger click
+06/10/2014 14:59:23 devpinoyLogger Error while clicking on link -  MC_SelectCompanyorg.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'RPIPL2-DT-DV018', ip: '192.168.129.109', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_20'
+Driver info: driver.version: Keywords_Driver
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at testscripts.Keywords_Driver.click(Keywords_Driver.java:294)
+	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at testscripts.Driverscript.AppTest(Driverscript.java:100)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.TestNG.privateMain(TestNG.java:1364)
+	at org.testng.TestNG.main(TestNG.java:1333)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:345)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:117)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:178)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:131)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:72)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at org.openqa.selenium.remote.HttpCommandExecutor.fallBackExecute(HttpCommandExecutor.java:337)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:298)
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.execute(NewProfileExtensionConnection.java:165)
+	at org.openqa.selenium.firefox.FirefoxDriver$LazyCommandExecutor.execute(FirefoxDriver.java:366)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+	... 32 more
+
+06/10/2014 14:59:23 devpinoyLogger ************Result of execution************** Fail
+06/10/2014 14:59:24 devpinoyLogger org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'RPIPL2-DT-DV018', ip: '192.168.129.109', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_20'
+Driver info: driver.version: FirefoxDriver
+06/10/2014 14:59:25 devpinoyLogger Test suite end time 02:59:25 PM

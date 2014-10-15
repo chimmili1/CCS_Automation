@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18832" started-at="2014-10-06T09:58:25Z" finished-at="2014-10-06T09:58:43Z">
+    <groups>
+    </groups>
+    <test name="Test on firefox browser" duration-ms="18832" started-at="2014-10-06T09:58:25Z" finished-at="2014-10-06T09:58:43Z">
+      <class name="testscripts.Driverscript">
+        <test-method status="PASS" signature="startTesting()[pri:0, instance:testscripts.Driverscript@babb1]" name="startTesting" is-config="true" duration-ms="88" started-at="2014-10-06T15:28:24Z" finished-at="2014-10-06T15:28:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTesting -->
+        <test-method status="PASS" signature="Intilaize_Properties()[pri:0, instance:testscripts.Driverscript@babb1]" name="Intilaize_Properties" is-config="true" duration-ms="273" started-at="2014-10-06T15:28:25Z" finished-at="2014-10-06T15:28:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Intilaize_Properties -->
+        <test-method status="PASS" signature="AppTest()[pri:0, instance:testscripts.Driverscript@babb1]" name="AppTest" duration-ms="18550" started-at="2014-10-06T15:28:25Z" finished-at="2014-10-06T15:28:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppTest -->
+        <test-method status="PASS" signature="endScript()[pri:0, instance:testscripts.Driverscript@babb1]" name="endScript" is-config="true" duration-ms="117" started-at="2014-10-06T15:28:43Z" finished-at="2014-10-06T15:28:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endScript -->
+      </class> <!-- testscripts.Driverscript -->
+    </test> <!-- Test on firefox browser -->
+  </suite> <!-- Suite -->
+</testng-results>
