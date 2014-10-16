@@ -1,0 +1,225 @@
+16/10/2014 14:37:44 devpinoyLogger Test started time 02:37:44 PM
+16/10/2014 14:37:44 devpinoyLogger loaded QA properties file
+16/10/2014 14:37:44 devpinoyLogger loaded Object repository properties file
+16/10/2014 14:37:45 devpinoyLogger loaded test repository and data repository files
+16/10/2014 14:37:45 devpinoyLogger *************************************** TC01 **************************************  Skip
+16/10/2014 14:37:45 devpinoyLogger Executing the test *************TC02  ***********************
+16/10/2014 14:37:45 devpinoyLogger openbrowser
+16/10/2014 14:37:50 devpinoyLogger Launched firefox browser 
+16/10/2014 14:37:50 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:37:50 devpinoyLogger launch the browser----- openbrowser----- Pass
+16/10/2014 14:37:50 devpinoyLogger navigate
+16/10/2014 14:37:51 devpinoyLogger naviagted to the URL-http://www.qa3.mynewplace.com/
+16/10/2014 14:37:51 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:37:51 devpinoyLogger Navigate to the mynewplace application----- navigate----- Pass
+16/10/2014 14:37:51 devpinoyLogger click
+16/10/2014 14:38:01 devpinoyLogger Error while clicking on link -  blogorg.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'blog')]"}
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'RPIPL2-DT-DV018', ip: '192.168.129.109', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_20'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=29.0.1, platform=XP, browserConnectionEnabled=true, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e16075a0-4627-4d26-a49c-441c49839160
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at testscripts.Keywords_Driver.click(Keywords_Driver.java:294)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at testscripts.Driverscript.AppTest(Driverscript.java:100)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'blog')]"}
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'RPIPL2-DT-DV018', ip: '192.168.129.109', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_20'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/MCHIMM~1/AppData/Local/Temp/anonymous5603827571336694332webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/MCHIMM~1/AppData/Local/Temp/anonymous5603827571336694332webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396)
+
+16/10/2014 14:38:01 devpinoyLogger ************Result of execution************** Fail
+16/10/2014 14:38:01 devpinoyLogger click on blog menu---- click---- Fail---- D:\AutomationWorkspace\HybridFramework\Screenshots\MNP_Blog2_TS3_click.jpg
+16/10/2014 14:38:01 devpinoyLogger *************************************** TC02 **************************************  Fail
+16/10/2014 14:38:01 devpinoyLogger *************************************** TC03 **************************************  Skip
+16/10/2014 14:38:01 devpinoyLogger *************************************** TC04 **************************************  Skip
+16/10/2014 14:38:01 devpinoyLogger *************************************** TC05 **************************************  Skip
+16/10/2014 14:38:01 devpinoyLogger *************************************** TC06 **************************************  Skip
+16/10/2014 14:38:01 devpinoyLogger *************************************** TC07 **************************************  Skip
+16/10/2014 14:38:01 devpinoyLogger *************************************** TC08 **************************************  Skip
+16/10/2014 14:38:01 devpinoyLogger *************************************** TC09 **************************************  Skip
+16/10/2014 14:38:01 devpinoyLogger *************************************** TC10 **************************************  Skip
+16/10/2014 14:38:01 devpinoyLogger *************************************** TC11 **************************************  Skip
+16/10/2014 14:38:01 devpinoyLogger *************************************** TC12 **************************************  Skip
+16/10/2014 14:38:01 devpinoyLogger *************************************** TC13 **************************************  Skip
+16/10/2014 14:38:01 devpinoyLogger *************************************** TC14 **************************************  Skip
+16/10/2014 14:38:01 devpinoyLogger Executing the test *************TC15  ***********************
+16/10/2014 14:38:01 devpinoyLogger openbrowser
+16/10/2014 14:38:04 devpinoyLogger Launched firefox browser 
+16/10/2014 14:38:04 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:04 devpinoyLogger launch the browser----- openbrowser----- Pass
+16/10/2014 14:38:04 devpinoyLogger navigate
+16/10/2014 14:38:09 devpinoyLogger naviagted to the URL-http://mc.qa2.myleasestar.com
+16/10/2014 14:38:09 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:09 devpinoyLogger Navigate to the Marketing center application----- navigate----- Pass
+16/10/2014 14:38:09 devpinoyLogger waitproperty
+16/10/2014 14:38:09 devpinoyLogger wait for the application to load-30000
+16/10/2014 14:38:09 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:09 devpinoyLogger Wait to load the page----- waitproperty----- Pass
+16/10/2014 14:38:09 devpinoyLogger sendkeys
+16/10/2014 14:38:09 devpinoyLogger Entered Value on textbox -MC_Username
+16/10/2014 14:38:09 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:09 devpinoyLogger Enter the Email Address in UserName Field----- sendkeys----- Pass
+16/10/2014 14:38:09 devpinoyLogger sendkeys
+16/10/2014 14:38:09 devpinoyLogger Entered Value on textbox -MC_Password
+16/10/2014 14:38:09 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:09 devpinoyLogger Enter the Password in Password Field----- sendkeys----- Pass
+16/10/2014 14:38:09 devpinoyLogger click
+16/10/2014 14:38:13 devpinoyLogger clicked on link -MC_Login
+16/10/2014 14:38:13 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:13 devpinoyLogger Click on Sign on Button----- click----- Pass
+16/10/2014 14:38:13 devpinoyLogger waitTillVisibilityofElement
+16/10/2014 14:38:13 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:13 devpinoyLogger Wait till element exist on the page----- waitTillVisibilityofElement----- Pass
+16/10/2014 14:38:13 devpinoyLogger sendkeys
+16/10/2014 14:38:13 devpinoyLogger Entered Value on textbox -MC_CompanyName
+16/10/2014 14:38:13 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:13 devpinoyLogger Enter the company name----- sendkeys----- Pass
+16/10/2014 14:38:13 devpinoyLogger click
+16/10/2014 14:38:14 devpinoyLogger clicked on link -MC_SelectCompany
+16/10/2014 14:38:14 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:14 devpinoyLogger Select the company name----- click----- Pass
+16/10/2014 14:38:14 devpinoyLogger click
+16/10/2014 14:38:16 devpinoyLogger clicked on link -MC_GoByCompany
+16/10/2014 14:38:16 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:16 devpinoyLogger Click on Go----- click----- Pass
+16/10/2014 14:38:16 devpinoyLogger selectContactFromTable
+16/10/2014 14:38:16 devpinoyLogger Selected contact successfully
+16/10/2014 14:38:16 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:16 devpinoyLogger Select contact from contact table----- selectContactFromTable----- Pass
+16/10/2014 14:38:16 devpinoyLogger click
+16/10/2014 14:38:23 devpinoyLogger clicked on link -MC_ManageSpecials
+16/10/2014 14:38:23 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:23 devpinoyLogger Click on Manage Specials----- click----- Pass
+16/10/2014 14:38:23 devpinoyLogger click
+16/10/2014 14:38:23 devpinoyLogger clicked on link -MC_AddSpecial
+16/10/2014 14:38:23 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:23 devpinoyLogger Click on Add Special----- click----- Pass
+16/10/2014 14:38:23 devpinoyLogger activateElement
+16/10/2014 14:38:24 devpinoyLogger Enter the element status - Element is  Activated
+16/10/2014 14:38:24 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:24 devpinoyLogger Click on special type----- activateElement----- Pass
+16/10/2014 14:38:24 devpinoyLogger activateElementBySendkeys
+16/10/2014 14:38:24 devpinoyLogger Enter the element status - Element is  Activated
+16/10/2014 14:38:24 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:24 devpinoyLogger Enter text in the Textbox----- activateElementBySendkeys----- Pass
+16/10/2014 14:38:24 devpinoyLogger activateElementBySendkeys
+16/10/2014 14:38:24 devpinoyLogger Enter the element status - Element is  Activated
+16/10/2014 14:38:24 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:24 devpinoyLogger Enter text in the Custom Textbox----- activateElementBySendkeys----- Pass
+16/10/2014 14:38:24 devpinoyLogger activateElementBySendkeys
+16/10/2014 14:38:24 devpinoyLogger Enter the element status - Element is  Activated
+16/10/2014 14:38:24 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:24 devpinoyLogger Enter Start Date----- activateElementBySendkeys----- Pass
+16/10/2014 14:38:24 devpinoyLogger activateElementBySendkeys
+16/10/2014 14:38:24 devpinoyLogger Enter the element status - Element is  Activated
+16/10/2014 14:38:24 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:24 devpinoyLogger Enter End Date----- activateElementBySendkeys----- Pass
+16/10/2014 14:38:24 devpinoyLogger activateElement
+16/10/2014 14:38:24 devpinoyLogger Enter the element status - Element is  Activated
+16/10/2014 14:38:24 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:24 devpinoyLogger Select  Special type----- activateElement----- Pass
+16/10/2014 14:38:24 devpinoyLogger activateElement
+16/10/2014 14:38:25 devpinoyLogger Enter the element status - Element is  Activated
+16/10/2014 14:38:25 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:25 devpinoyLogger Click on Save----- activateElement----- Pass
+16/10/2014 14:38:25 devpinoyLogger switchtodefaultwindow
+16/10/2014 14:38:25 devpinoyLogger Switched to defaulte window-null
+16/10/2014 14:38:25 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:25 devpinoyLogger Switching to the Default window----- switchtodefaultwindow----- Pass
+16/10/2014 14:38:25 devpinoyLogger verifytext
+16/10/2014 14:38:26 devpinoyLogger text exist in the pageThe special has been added.
+16/10/2014 14:38:26 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:26 devpinoyLogger Verify the text exist in the page----- verifytext----- Pass
+16/10/2014 14:38:26 devpinoyLogger editSpecialsFromTable
+16/10/2014 14:38:27 devpinoyLogger clicked on edit successfully
+16/10/2014 14:38:27 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:27 devpinoyLogger Select and edit the deired special from the table----- editSpecialsFromTable----- Pass
+16/10/2014 14:38:27 devpinoyLogger activateElementByclear
+16/10/2014 14:38:28 devpinoyLogger Enter the element status - Element is  Activated
+16/10/2014 14:38:28 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:28 devpinoyLogger Clear the Textbox----- activateElementByclear----- Pass
+16/10/2014 14:38:28 devpinoyLogger activateElementBySendkeys
+16/10/2014 14:38:28 devpinoyLogger Enter the element status - Element is  Activated
+16/10/2014 14:38:28 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:28 devpinoyLogger Enter text in the Textbox----- activateElementBySendkeys----- Pass
+16/10/2014 14:38:28 devpinoyLogger activateElement
+16/10/2014 14:38:28 devpinoyLogger Enter the element status - Element is  Activated
+16/10/2014 14:38:28 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:28 devpinoyLogger Click on save----- activateElement----- Pass
+16/10/2014 14:38:28 devpinoyLogger switchtodefaultwindow
+16/10/2014 14:38:28 devpinoyLogger Switched to defaulte window-null
+16/10/2014 14:38:28 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:28 devpinoyLogger Switching to the Default window----- switchtodefaultwindow----- Pass
+16/10/2014 14:38:28 devpinoyLogger sleep
+16/10/2014 14:38:33 devpinoyLogger wait for the application to load-5000
+16/10/2014 14:38:33 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:33 devpinoyLogger Wait to load the page----- sleep----- Pass
+16/10/2014 14:38:33 devpinoyLogger verifytext
+16/10/2014 14:38:33 devpinoyLogger text exist in the pageYour changes have been saved.
+16/10/2014 14:38:33 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:33 devpinoyLogger Verify the text exist in the page----- verifytext----- Pass
+16/10/2014 14:38:33 devpinoyLogger deleteSpecialsFromTable
+16/10/2014 14:38:33 devpinoyLogger clicked on delete successfully
+16/10/2014 14:38:33 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:33 devpinoyLogger Select and delete desired special from the table----- deleteSpecialsFromTable----- Pass
+16/10/2014 14:38:33 devpinoyLogger activateElement
+16/10/2014 14:38:34 devpinoyLogger Enter the element status - Element is  Activated
+16/10/2014 14:38:34 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:34 devpinoyLogger Click on delete----- activateElement----- Pass
+16/10/2014 14:38:34 devpinoyLogger switchtodefaultwindow
+16/10/2014 14:38:35 devpinoyLogger Switched to defaulte window-null
+16/10/2014 14:38:35 devpinoyLogger ************Result of execution************** Pass
+16/10/2014 14:38:35 devpinoyLogger Switching to the Default window----- switchtodefaultwindow----- Pass
+16/10/2014 14:38:35 devpinoyLogger verifytext
+16/10/2014 14:45:58 devpinoyLogger Error no such element exist in the page -MC_MsgTextError communicating with the remote browser. It may have died.
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'RPIPL2-DT-DV018', ip: '192.168.129.109', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_20'
+Driver info: driver.version: Keywords_Driver
+16/10/2014 14:45:58 devpinoyLogger ************Result of execution************** Fail
+16/10/2014 14:45:59 devpinoyLogger org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'RPIPL2-DT-DV018', ip: '192.168.129.109', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_20'
+Driver info: driver.version: FirefoxDriver
+16/10/2014 14:46:00 devpinoyLogger Test suite end time 02:46:00 PM

@@ -1,25 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="1" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="18832" started-at="2014-10-06T09:58:25Z" finished-at="2014-10-06T09:58:43Z">
+  <suite name="Suite" duration-ms="495818" started-at="2014-10-16T09:07:44Z" finished-at="2014-10-16T09:16:00Z">
     <groups>
     </groups>
-    <test name="Test on firefox browser" duration-ms="18832" started-at="2014-10-06T09:58:25Z" finished-at="2014-10-06T09:58:43Z">
+    <test name="Test on firefox browser" duration-ms="495818" started-at="2014-10-16T09:07:44Z" finished-at="2014-10-16T09:16:00Z">
       <class name="testscripts.Driverscript">
-        <test-method status="PASS" signature="startTesting()[pri:0, instance:testscripts.Driverscript@babb1]" name="startTesting" is-config="true" duration-ms="88" started-at="2014-10-06T15:28:24Z" finished-at="2014-10-06T15:28:25Z">
+        <test-method status="PASS" signature="startTesting()[pri:0, instance:testscripts.Driverscript@124409e]" name="startTesting" is-config="true" duration-ms="310" started-at="2014-10-16T14:37:44Z" finished-at="2014-10-16T14:37:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startTesting -->
-        <test-method status="PASS" signature="Intilaize_Properties()[pri:0, instance:testscripts.Driverscript@babb1]" name="Intilaize_Properties" is-config="true" duration-ms="273" started-at="2014-10-06T15:28:25Z" finished-at="2014-10-06T15:28:25Z">
+        <test-method status="PASS" signature="Intilaize_Properties()[pri:0, instance:testscripts.Driverscript@124409e]" name="Intilaize_Properties" is-config="true" duration-ms="592" started-at="2014-10-16T14:37:44Z" finished-at="2014-10-16T14:37:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Intilaize_Properties -->
-        <test-method status="PASS" signature="AppTest()[pri:0, instance:testscripts.Driverscript@babb1]" name="AppTest" duration-ms="18550" started-at="2014-10-06T15:28:25Z" finished-at="2014-10-06T15:28:43Z">
+        <test-method status="FAIL" signature="AppTest()[pri:0, instance:testscripts.Driverscript@124409e]" name="AppTest" duration-ms="495201" started-at="2014-10-16T14:37:45Z" finished-at="2014-10-16T14:46:00Z">
+          <exception class="org.openqa.selenium.remote.UnreachableBrowserException">
+            <message>
+              <![CDATA[Error communicating with the remote browser. It may have died.
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'RPIPL2-DT-DV018', ip: '192.168.129.109', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_20'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'RPIPL2-DT-DV018', ip: '192.168.129.109', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_20'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:423)
+	at testscripts.Driverscript.AppTest(Driverscript.java:126)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:117)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:178)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:131)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:72)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at org.openqa.selenium.remote.HttpCommandExecutor.fallBackExecute(HttpCommandExecutor.java:319)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:298)
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.execute(NewProfileExtensionConnection.java:165)
+	at org.openqa.selenium.firefox.FirefoxDriver$LazyCommandExecutor.execute(FirefoxDriver.java:366)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+	... 27 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.remote.UnreachableBrowserException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AppTest -->
-        <test-method status="PASS" signature="endScript()[pri:0, instance:testscripts.Driverscript@babb1]" name="endScript" is-config="true" duration-ms="117" started-at="2014-10-06T15:28:43Z" finished-at="2014-10-06T15:28:43Z">
+        <test-method status="PASS" signature="endScript()[pri:0, instance:testscripts.Driverscript@124409e]" name="endScript" is-config="true" duration-ms="72" started-at="2014-10-16T14:46:00Z" finished-at="2014-10-16T14:46:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endScript -->
